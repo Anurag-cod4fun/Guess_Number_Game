@@ -17,15 +17,15 @@ The Guess The Number Game is a simple mobile game built using React Native. It a
 - Displays a message when the user guesses the correct number
 - Offers an option to play again once the game is over
 
-## Screenshots
+//## Screenshots
 
-Include some screenshots of your game to give users a visual preview.
+//Include some screenshots of your game to give users a visual preview.
 
 ## Installation
 
 To run the Guess The Number Game locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/guess-the-number-game.git`
+1. Clone the repository: `git clone https://github.com/Anurag-cod4fun/guess-the-number-game.git`
 2. Navigate to the project directory: `cd guess-the-number-game`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -48,15 +48,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 Please ensure that your code adheres to the existing code style and includes appropriate documentation and test coverage.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 ## Credits
 
 Give credit to any resources or individuals that inspired or helped you with the project.
 
-## Contact
+## Contact: `patilanurag661@gmail.com`
 
 If you have any questions, suggestions, or would like to report a bug, please feel free to reach out to me:
 
