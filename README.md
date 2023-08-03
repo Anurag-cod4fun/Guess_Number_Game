@@ -52,8 +52,8 @@ Give credit to any resources or individuals that inspired or helped you with the
 
 If you have any questions, suggestions, or would like to report a bug, please feel free to reach out to me:
 
-- GitHub: [@Anurag-cod4fun](https://github.com/your-username)
-- Twitter: [@Anurag-cod4fun](https://twitter.com/your-username)
+- GitHub: [@Anurag-cod4fun](https://github.com/Anurag-cod4fun)
+- Twitter: [@AnuragPatil2002](https://twitter.com/AnuragPatil2002)
 - Email: patilanurag661@gmail.com
 
 Thank you for checking out the Guess The Number Game! Have fun playing! 🎮
