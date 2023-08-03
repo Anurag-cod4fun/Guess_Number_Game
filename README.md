@@ -48,12 +48,12 @@ Please ensure that your code adheres to the existing code style and includes app
 
 Give credit to any resources or individuals that inspired or helped you with the project.
 
-## Contact: `patilanurag661@gmail.com`
+## Contact
 
 If you have any questions, suggestions, or would like to report a bug, please feel free to reach out to me:
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Twitter: [@your-username](https://twitter.com/your-username)
-- Email: your-email@example.com
+- GitHub: [@Anurag-cod4fun](https://github.com/your-username)
+- Twitter: [@Anurag-cod4fun](https://twitter.com/your-username)
+- Email: patilanurag661@gmail.com
 
 Thank you for checking out the Guess The Number Game! Have fun playing! 🎮
