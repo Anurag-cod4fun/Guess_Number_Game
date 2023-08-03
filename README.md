@@ -17,10 +17,6 @@ The Guess The Number Game is a simple mobile game built using React Native. It a
 - Displays a message when the user guesses the correct number
 - Offers an option to play again once the game is over
 
-//## Screenshots
-
-//Include some screenshots of your game to give users a visual preview.
-
 ## Installation
 
 To run the Guess The Number Game locally, follow these steps:
